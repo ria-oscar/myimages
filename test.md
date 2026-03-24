@@ -1,6 +1,1 @@
-abc.  
-defe
-
-efef
-
-ABC。DFE
+aaa
