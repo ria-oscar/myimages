@@ -1,6 +1,6 @@
-## 測試衝突
-- a
-- g
-# abcde
-bbbbbbbb
-======bbbb=====
+abc.  
+defe
+
+efef
+
+ABC。DFE
